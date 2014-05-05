@@ -3,9 +3,8 @@ GoggleLights
 
 Collection of example code for Neopixel Ring effects
 
-Please note that the Gemma does not work on Linux machines. 
 
-Before getting started, you will need to download the following:
+Before getting started, you will need to download the following on a *Mac or Windows machine*:
 
 *[Arduino IDE](http://arduino.cc/en/Main/Software)
 
