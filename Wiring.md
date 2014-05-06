@@ -13,4 +13,4 @@
 * Use a piece of foam tape to stick the battery behind the GEMMA, with the switch sticking out the side. Plug in the battery and glue the switch in place.
 
 
-*These instructions have been modified from [Adafruit's NeoPixel bracelet](https://learn.adafruit.com/neopixel-ring-bangle-bracelet/circuit-diagram).
+*These instructions have been modified from [Adafruit's NeoPixel bracelet](https://learn.adafruit.com/neopixel-ring-bangle-bracelet/circuit-diagram).*
