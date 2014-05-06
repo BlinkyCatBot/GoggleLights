@@ -157,5 +157,5 @@ void flashRandom(int wait, uint8_t howmany) {
 }
 
 
-
-**For more information, please refer to the [GEMMA Action List](https://github.com/HerrRausB/GemmaHoopAnimator/blob/master/GemmaHoopActionList.h)**
+======
+For more information, please refer to the GEMMA Action List at https://github.com/HerrRausB/GemmaHoopAnimator/blob/master/GemmaHoopActionList.h
