@@ -30,4 +30,6 @@ Wire snips
 
 micro-USB cable
 
-computer with the appropriate downloads listed in the READ ME
+Computer with the appropriate downloads listed in the READ ME
+
+Heat gun/ lighter
